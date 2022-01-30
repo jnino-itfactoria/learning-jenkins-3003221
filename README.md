@@ -1,7 +1,9 @@
 # Learning Jenkins, 01-04: Install Jenkins as a Container
 
 ## Prerequisites
-You will need to have [Docker](https://docs.docker.com/get-docker/) installed on your local system.
+* You will need to have [Docker](https://docs.docker.com/get-docker/) installed on your local system.
+* RAM: 1Gb
+* Disk Space: 10Gb 
 
 ## Installation
 In a terminal, run the following commands:
